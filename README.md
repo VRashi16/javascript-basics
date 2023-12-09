@@ -1,2 +1,2 @@
-# JavaScript_Basic
+# JavaScript_Basics
 Introduction to JavaScript
